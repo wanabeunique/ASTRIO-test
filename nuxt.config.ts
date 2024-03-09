@@ -18,7 +18,4 @@ export default defineNuxtConfig({
      */
     componentDir: "./components/ui",
   },
-  app: {
-    baseURL: '/astrio/',
-  }
 });
